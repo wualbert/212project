@@ -1,0 +1,3 @@
+<launch>
+  <node name="armNode" pkg="arm" type="arm.py"/>
+</launch>

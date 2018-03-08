@@ -1,0 +1,7 @@
+<launch>
+  <node name="armNode" pkg="arm" type="arm.py"/>
+  <node name="arduinoNode" pkg="rosserial_python" type="serial_node.py"/>
+	<param name="port" value="/dev/ttyACM0"/>
+	<param name="baud" value="115200"/>
+  <node name="seaNode" pkg="arm" type="sea.py"/>
+</launch>

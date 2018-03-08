@@ -1,0 +1,2 @@
+beginner_tutorials:human_robot_comm
+-DCATKIN_DEVEL_PREFIX=/home/jerry/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jerry/catkin_ws/install

@@ -1,0 +1,8 @@
+prefix=/home/albertwu/me212project/catkin_ws/devel
+
+Name: add
+Description: Description of add
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/albertwu/me212project/catkin_ws/devel/lib 
+Requires: 
